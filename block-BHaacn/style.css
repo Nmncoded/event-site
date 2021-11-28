@@ -163,8 +163,8 @@ body {
     color: rgba(249,35,77,1);
 }
 .hero-txt p {
+    width: 75%;
     line-height: 1.2;
-    /* margin-right: 0.6rem; */
     color: rgba(255,255,255,0.8);
     font-size: 2rem;
     font-weight: 500;
@@ -340,6 +340,8 @@ body {
 }
 .schedule-date {
     width: 16%;
+    /* height: 82.2rem;
+    box-sizing: border-box; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -383,6 +385,8 @@ body {
 }
 .schedule-middle-part2 {
     width: 85%;
+    /* height: 82.2rem;
+    box-sizing: border-box; */
 }
 
 .schedule-middle-1 {
@@ -397,6 +401,8 @@ body {
 .schedule-img {
     /* border-radius: 6px; */
     width: 22%;
+    height: 14.6rem;
+    box-sizing: border-box;
     margin-right: 6rem;
 }
 .schedule-img img {
@@ -406,6 +412,8 @@ body {
 } 
 .schedule-txt {
     width: 75%;
+    height: 14.6rem;
+    box-sizing: border-box;
 }
 .schedule-txt div {
     color: rgba(2,19,46,0.8);

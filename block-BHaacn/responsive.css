@@ -145,12 +145,13 @@ html {
 }
 .hero-txt {
     box-sizing: border-box;
-    flex: 0 1 55%;
+    flex: 0 1 60%;
     height: 22rem;
     margin-right: 4rem;
 }
 .hero-txt header {
     font-size: 4rem;
+    margin-bottom: 1.5rem;
 }
 .hero-img {
     box-sizing: border-box;
@@ -223,8 +224,14 @@ html {
     padding: 0;
     font-size: 2.4rem;
 }
+.schedule-txt {
+    height: 29.2rem;
+    box-sizing: border-box;
+}
 .schedule-img {
     margin-right: 4rem;
+    height: 29.2rem;
+    box-sizing: border-box;
 }
 .schedule-txt p {
     margin-top: 1rem;
